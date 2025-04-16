@@ -42,7 +42,7 @@ Estudando todos os dias para construir projetos reais, desenvolver minhas habili
 ## Conecte-se comigo
 
 - [LinkedIn](https://www.linkedin.com/in/evelyn-fernandes16/)
-- [Projeto] (https://github.com/EvyDsf/TesteInstrumentos)
+- [Projeto](https://github.com/EvyDsf/TesteInstrumentos)
 
 > Estou aberta a oportunidades como estagiária ou desenvolvedora júnior. Vamos conversar?
 
