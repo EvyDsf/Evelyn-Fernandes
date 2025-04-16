@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Sou uma estudante de *Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e focada em me tornar **Desenvolvedora Front-end. Venho de uma base em **design gráfico*, o que me dá um olhar especial para a criação de interfaces bonitas, funcionais e acessíveis.
+Sou uma estudante de *Análise e Desenvolvimento de Sistemas*, apaixonada por tecnologia e focada em me tornar *Desenvolvedora Front-end*. Venho de uma base em *design gráfico*, o que me dá um olhar especial para a criação de interfaces bonitas, funcionais e acessíveis.
 
 Estudando todos os dias para construir projetos reais, desenvolver minhas habilidades e entrar no mercado tech o quanto antes. Tenho fluência em *inglês*, o que me permite aprender com conteúdos internacionais e colaborar com equipes diversas.
 
